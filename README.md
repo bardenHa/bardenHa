@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardenHa)](https://github.com/bardenHa/github-readme-stats)
+[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardenHa&hide=stars&show_icons=true&theme=agolia)](https://github.com/bardenHa/github-readme-stats)
 
 <!--
 **bardenHa/bardenHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
