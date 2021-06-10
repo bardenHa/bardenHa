@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harry Barden! 👋 </h1>
+<h1 align="center">Hi, I'm Harry! 👋 </h1>
 
 I'm an aspiring software engineer and a soon-to-be **STEM graduate** from the University of Greenwich. I am currently focused on **front-end technologies** with the intention of progressing to a full-stack engineering role.
 ## What I'm focusing on 🎧
