@@ -10,6 +10,6 @@ I'm currently learning how to utilise the **MERN stack** to develop various web 
 
 ## Get in touch 💬
 - Email - bardenha@gmail.com
-- LinkedIn - <a href="https://www.linkedin.com/in/harry-barden-a1311a186/" target="_blank">Harry Barden</a>
+- LinkedIn - <a href="https://www.linkedin.com/in/harry-barden/" target="_blank">Harry Barden</a>
 
 ![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardenHa&hide=stars&show_icons=true&theme=algolia)
