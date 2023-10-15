@@ -1,15 +1,8 @@
-<h1 align="center">Hi, I'm Harry! 👋 </h1>
+<h1 align="center">Hey, I'm Harry! 👋 </h1>
 
-I'm an aspiring software engineer and a soon-to-be **STEM graduate** from the University of Greenwich. I am currently focused on **front-end technologies** with the intention of progressing to a full-stack engineering role.
+I'm a product-focused **software engineer** from London, England. I'm interested in open source, keeping software simple, and building products that make a difference.
+
 ## What I'm focusing on 🎧
 
-I'm currently learning how to utilise the **MERN stack** to develop various web applications. This is mostly being conducted through the use of **The Odin Project's** Full Stack JavaScript <a href="https://www.theodinproject.com/paths/full-stack-javascript" target="_blank">path</a>.
+I'm currently focused on expanding my knowledge of software engineering and general productivity. I also enjoy creating my own projects and I'd like to invest more time on that going forward.
 
-## Programming Languages & Tools 🔧
-`HTML`, `CSS`, `JavaScript`, `MATLAB`, `Python` & `Git`
-
-## Get in touch 💬
-- Email - bardenha@gmail.com
-- LinkedIn - <a href="https://www.linkedin.com/in/harry-barden/" target="_blank">Harry Barden</a>
-
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=bardenHa&hide=stars&show_icons=true&theme=algolia)
